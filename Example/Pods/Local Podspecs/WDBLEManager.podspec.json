@@ -1,0 +1,22 @@
+{
+  "name": "WDBLEManager",
+  "version": "0.0.1",
+  "summary": "A short description of WDBLEManager.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/SummerCodeing/WDBLEManager",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "SummerCodeing": "596175302@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/SummerCodeing/WDBLEManager.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "WDBLEManager/Classes/**/*"
+}

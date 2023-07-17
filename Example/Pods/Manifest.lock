@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - WDBLEManager (0.0.1)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - WDBLEManager (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  WDBLEManager:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  WDBLEManager: 1a6d110d5398ee4c3449d00d6f48a97eabfd1ece
+
+PODFILE CHECKSUM: cfd7063513ca7c9f4c62fe02a13376464f8cf5f6
+
+COCOAPODS: 1.12.1

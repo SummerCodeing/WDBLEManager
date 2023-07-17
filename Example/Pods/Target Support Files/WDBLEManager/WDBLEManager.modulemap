@@ -1,0 +1,6 @@
+framework module WDBLEManager {
+  umbrella header "WDBLEManager-umbrella.h"
+
+  export *
+  module * { export * }
+}
